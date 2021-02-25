@@ -314,7 +314,7 @@ background-position: 20% 100%, 80% 100%, 100% 0%
 # .font90[What If The Policy Analysis Does Not Have Open Output?]
 - Two fictitious policy analyses 
 - The connection between all assumptions and final output has been hidden
-- Both claim to report on the same fact (policy estimate)
+- Both claim to report on the same fact (policy estimate). Code is available, reproducible, and each as an interactive app and dynamic document. 
 - Wildly different results by choosing a different policy approach (and not reporting)
 
 
@@ -325,26 +325,30 @@ background-position: 10% 100%, 90% 85%, 100% 0%
 # .font90[What If It Does Not Have Open Analysis?]
 - Two fictitious policy analyses 
 - The connection between all assumptions and final output has been hidden
-- Both claim to report on the same fact (policy estimate)
+- Both claim to report on the same fact (policy estimate). Code is available, reproducible, and each as an interactive app. 
 - Wildly different results by slightly modifying the underlying assumptions in the desired direction
 
 ---
+background-image: url(Images/dw-nopen-out2.png), url(Images/dw-nopen-out3.png)
+background-size: 600px, 600px
+background-position: 100% 10%, 100% 70%
+count: true
 # .font70[How Does This OPA Increases The Policy Impact Of Deworming Research?]
 
-## Examples of specific knowledge recorded in the OPA:
+.pull-left[
+**Examples of specific knowledge:**  
 - How to use the results main result in an adjusted CBA (add printout of table 5)
-   - How to compute costs  
-   - How to compute benefits  
-   - What are the relevant prevalence rates
-   - What are the relevant take-up rates
+   - How to compute costs, benefits. 
+   - What are the relevant prevalence rates, take-up rates.
 - How do results change when including/excluding analysis of externalities  
 - What is the best representation of the facts given for a new setting 
 - How some specific computations are performed (simple averages, definition of discount rates)
 
-## General knowledge: 
+**General knowledge:**   
 - Effect of deworming on earnings
 - Effect of deworming on per-capita consumption
 - Effect of deworming on per-capita household earnings
+]
 
 
 ---
